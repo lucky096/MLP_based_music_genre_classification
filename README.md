@@ -1,4 +1,4 @@
-# MLP_based_music_genre_classification
+# Multi Layer Perceptron, an artificial neural network based approach for Music Classification by Genre.
 
 ## Attribute Information
 
