@@ -24,7 +24,7 @@ Learning rate: 0.2
 Momentum: 0.7
 Iterations: 1563
 
-![alt text](https://github.com/Lucky94/MLP_based_music_genre_classification/tree/master/images/result1.png "Result 1")
+![alt text](images/result1.png "Result 1")
 
 - Features of music songs which we will take, would be just only those for which we believe they have a decisive influence on the classification, actually those are tempo, root mean square (RMS) amplitude, dynamic range and number of digital errors.
 Attributes Considered:- 
@@ -45,7 +45,7 @@ Learning rate: 0.2
 Momentum: 0.7
 Iterations: 19450
 
-![alt text](https://github.com/Lucky94/MLP_based_music_genre_classification/tree/master/images/result2.png "Result 2")
+![alt text](images/result2.png "Result 2")
 
 
 ## Conclusion
